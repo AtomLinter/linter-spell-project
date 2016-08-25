@@ -1,5 +1,7 @@
 {
-  "knownWords": [
-    "fubar"
-  ]
+	"knownWords": [
+		"fubar",
+		"stringify",
+		"linter"
+	]
 }
