@@ -17,15 +17,15 @@ This package relies upon [linter-spell](https://atom.io/packages/linter-spell).
 ## Usage
 
 Project specific dictionaries are accomplished by providing a `language.json` in
-the project root. This is intented to be compatible with
-[spell-check-project](https://atom.io/packages/spell-check-project).
+the project root. This is intended to be compatible with
+[spell-check-project](https://atom.io/packages/spell-check-project). Note that
+case sensitive words should be preceded with an exclamation sign.
 
 ```json
 {
   "knownWords": [
     "foo",
-    "/Bar/",
-    "/Word/i"
+    "!Bar"
   ]
 }
 ```
