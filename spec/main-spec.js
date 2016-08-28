@@ -5,7 +5,7 @@
 // import { Range } from 'atom'
 
 describe('The linter-spell-project provider for Atom Linter', () => {
-  const grammar = require('../lib/main').provideGrammar()[0]
+  //const grammar = require('../lib/main').provideGrammar()[0]
 
   // beforeEach(() => {
   //   waitsForPromise(() => {
