@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-project",
   "main": "./lib/main",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Project specific dictionaries for linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
