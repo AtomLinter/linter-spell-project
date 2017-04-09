@@ -1,20 +1,20 @@
 {
   "name": "linter-spell-project",
   "main": "./lib/main",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Project specific dictionaries for linter-spell.",
   "author": "Tarn Burton <twburton@gmail.com>",
   "keywords": [
     "linter",
     "spell-check"
   ],
-  "repository": "https://github.com/yitzchak/linter-spell-project",
+  "repository": "https://github.com/AtomLinter/linter-spell-project",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
   },
   "bugs": {
-    "url": "https://github.com/yitzchak/linter-spell-project/issues"
+    "url": "https://github.com/AtomLinter/linter-spell-project/issues"
   },
   "dependencies": {
     "lodash": "^4.13.0",
